@@ -1,0 +1,24 @@
+{
+  "name": "practice-post-graphile",
+  "version": "1.0.0",
+  "description": "practice post graphile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "migrate:create": "db-migrate create"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wasim2263/practice-post-graphile.git"
+  },
+  "author": "wasim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wasim2263/practice-post-graphile/issues"
+  },
+  "homepage": "https://github.com/wasim2263/practice-post-graphile#readme",
+  "dependencies": {
+    "db-migrate": "^0.11.13",
+    "db-migrate-pg": "^1.2.2"
+  }
+}

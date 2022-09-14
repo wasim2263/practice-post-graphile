@@ -1,0 +1,10 @@
+{
+  "sql-file": true,
+  "dev": {
+    "driver": "pg",
+    "user": "test",
+    "password": "test123",
+    "database": "test_pg",
+    "port": "5433"
+  }
+}
